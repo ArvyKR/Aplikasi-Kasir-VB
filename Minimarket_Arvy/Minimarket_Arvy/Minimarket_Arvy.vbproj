@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FB25460F-6C69-44BE-840E-AD43EE50BC43}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Minimarket_Arvy</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Minimarket_Arvy.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Minimarket_Arvy.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.27.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Dell\Desktop\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="barang.Designer.vb">
+      <DependentUpon>barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="barangmasuk.Designer.vb">
+      <DependentUpon>barangmasuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="barangmasuk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cekbarang.Designer.vb">
+      <DependentUpon>cekbarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cekbarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cekpemasok.Designer.vb">
+      <DependentUpon>cekpemasok.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cekpemasok.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cetakstokbarang.Designer.vb">
+      <DependentUpon>cetakstokbarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cetakstokbarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gantipassword.Designer.vb">
+      <DependentUpon>gantipassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gantipassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jualbayar.Designer.vb">
+      <DependentUpon>jualbayar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="jualbayar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lpembelian.Designer.vb">
+      <DependentUpon>lpembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lpembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lpendapatan.Designer.vb">
+      <DependentUpon>lpendapatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lpendapatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lpenjualan.Designer.vb">
+      <DependentUpon>lpenjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lpenjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu_utama.Designer.vb">
+      <DependentUpon>menu_utama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menu_utama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pemasok.Designer.vb">
+      <DependentUpon>pemasok.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pemasok.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pembayaran.Designer.vb">
+      <DependentUpon>pembayaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pembayaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pengguna.Designer.vb">
+      <DependentUpon>pengguna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pengguna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tbarang.Designer.vb">
+      <DependentUpon>tbarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tbarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tbarangmasuk.Designer.vb">
+      <DependentUpon>tbarangmasuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tbarangmasuk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testing.Designer.vb">
+      <DependentUpon>testing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="testing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transbeli.Designer.vb">
+      <DependentUpon>transbeli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transbeli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transjual.Designer.vb">
+      <DependentUpon>transjual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transjual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="barang.resx">
+      <DependentUpon>barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="barangmasuk.resx">
+      <DependentUpon>barangmasuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cekbarang.resx">
+      <DependentUpon>cekbarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cekpemasok.resx">
+      <DependentUpon>cekpemasok.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cetakstokbarang.resx">
+      <DependentUpon>cetakstokbarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gantipassword.resx">
+      <DependentUpon>gantipassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jualbayar.resx">
+      <DependentUpon>jualbayar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lpembelian.resx">
+      <DependentUpon>lpembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lpendapatan.resx">
+      <DependentUpon>lpendapatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lpenjualan.resx">
+      <DependentUpon>lpenjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu_utama.resx">
+      <DependentUpon>menu_utama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pemasok.resx">
+      <DependentUpon>pemasok.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pembayaran.resx">
+      <DependentUpon>pembayaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pengguna.resx">
+      <DependentUpon>pengguna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tbarang.resx">
+      <DependentUpon>tbarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tbarangmasuk.resx">
+      <DependentUpon>tbarangmasuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testing.resx">
+      <DependentUpon>testing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transbeli.resx">
+      <DependentUpon>transbeli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transjual.resx">
+      <DependentUpon>transjual.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

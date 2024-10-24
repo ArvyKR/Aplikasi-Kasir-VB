@@ -1,0 +1,146 @@
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.menu_utama.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.xml
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\MySql.Data.DLL
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.xml
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barang.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.gantipassword.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pemasok.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pengguna.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barangmasuk.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cetakstokbarang.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transjual.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pembayaran.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transbeli.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarang.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekbarang.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekpemasok.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarangmasuk.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpenjualan.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpembelian.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpendapatan.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.exe
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.xml
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.pdb
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbprojResolveAssemblyReference.cache
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barang.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barangmasuk.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekbarang.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekpemasok.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cetakstokbarang.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.gantipassword.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpembelian.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpendapatan.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpenjualan.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.menu_utama.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pemasok.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pembayaran.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pengguna.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarang.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarangmasuk.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transbeli.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transjual.resources
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbproj.GenerateResource.Cache
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.exe
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.pdb
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.xml
+D:\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\MySql.Data.DLL
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.exe
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.xml
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.pdb
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.exe
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.pdb
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.xml
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\MySql.Data.DLL
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barang.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barangmasuk.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekbarang.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekpemasok.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cetakstokbarang.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.gantipassword.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpembelian.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpendapatan.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpenjualan.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.menu_utama.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pemasok.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pembayaran.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pengguna.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarang.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarangmasuk.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transbeli.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transjual.resources
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbproj.GenerateResource.Cache
+C:\Users\Dell\Documents\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.jualbayar.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.exe
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.xml
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.pdb
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.exe
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.pdb
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.xml
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\MySql.Data.DLL
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbprojResolveAssemblyReference.cache
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barang.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barangmasuk.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekbarang.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekpemasok.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cetakstokbarang.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.gantipassword.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.jualbayar.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpembelian.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpendapatan.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpenjualan.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.menu_utama.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pemasok.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pembayaran.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pengguna.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarang.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarangmasuk.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transbeli.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transjual.resources
+D:\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbproj.GenerateResource.Cache
+D:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.exe
+D:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.xml
+D:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.pdb
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.exe
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.xml
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.pdb
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.exe
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.pdb
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\bin\Debug\Minimarket_Arvy.xml
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbprojResolveAssemblyReference.cache
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barang.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.barangmasuk.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekbarang.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cekpemasok.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.cetakstokbarang.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.gantipassword.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.jualbayar.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpembelian.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpendapatan.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.lpenjualan.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.menu_utama.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pemasok.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pembayaran.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.pengguna.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarang.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.tbarangmasuk.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transbeli.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.transjual.resources
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\Minimarket_Arvy.vbproj.GenerateResource.Cache
+G:\vbarvy\vbfix2\vb fix\Minimarket_Arvy\Minimarket_Arvy\obj\x86\Debug\WindowsApplication1.testing.resources
